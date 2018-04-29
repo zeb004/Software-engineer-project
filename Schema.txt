@@ -1,0 +1,5 @@
+Accounts(userid, username, firstname, lastname, email, age, sex, zipcode, password, secretanswer, rating, ratingnumber)
+Groups(groupid, name, category, date, city, zipcode, description, maxmembers)
+Members(groupid, userid)
+Owner(groupid, userid)
+Blocked(groupid, userid)
